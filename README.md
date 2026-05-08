@@ -1,1 +1,0 @@
-# stayease-hotel-management
